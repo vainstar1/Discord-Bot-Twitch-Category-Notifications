@@ -1,3 +1,5 @@
+# Archiving this. See BE-Custom-Queue-Bot for a better exmaple on this. That version has automatic and manual stream fetching.
+
 
 This is a simple example of how you can fetch streams with a (python) Discord bot in a specific category using the Twitch API. I also have other code for specific users instead of categories.
 
